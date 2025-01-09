@@ -4,6 +4,7 @@ public class TestMainClass {
 		
 		System.out.println("Hello World Commit1s");
 		System.out.println("Hello World Commit2s");
+		System.out.println("Hello World Commit3s");
 		}
 
 	}
